@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Fast, lightweight downloader for Pawchive. ZIP bundle generation using fflate.
 // @author       Selentia-IX
-// @icon         https://raw.githubusercontent.com/Selentia-IX/PawchiveRipper/main/pr-logo.png
+// @icon         https://raw.githubusercontent.com/Selentia-IX/PawchiveRipper/main/pwr-logo.png
 // @license      GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // @match        https://pawchive.st/*
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
